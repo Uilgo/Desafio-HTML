@@ -2,7 +2,7 @@
 
 1º Desafio HTML - CodeClub
 
-<img src="./assets/images/Foto.png" alt="foto">
+<img src="./assets/images/informações.png" alt="foto">
 
 > Informações sobre mim!
 
